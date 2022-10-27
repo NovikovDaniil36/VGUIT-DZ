@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def Gap(n):
 	summ=0
 	for i in range(n):

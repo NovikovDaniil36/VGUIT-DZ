@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def factorial(n):
 	multiplication=1
 	for i in range(1,n+1):

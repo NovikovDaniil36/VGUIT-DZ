@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 def Massiv(x):
 	n=[]
 	maxx=0

@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def More_in_a_row(n):
 	a=[]
 	max_quantity=1

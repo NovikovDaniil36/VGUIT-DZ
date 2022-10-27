@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def fibonacci_sum(n, k):
     total = 0
     prev = 0

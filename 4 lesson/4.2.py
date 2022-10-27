@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def Gap(a,b):
 	if a<b:
 		for i in range(a,b+1):

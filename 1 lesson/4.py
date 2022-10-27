@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 seconds = int(input("Введите секунды:"))
 days = seconds//3600//24
 seconds -= days*3600*24

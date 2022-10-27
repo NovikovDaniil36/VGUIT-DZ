@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 def F(a,b,c):
 	if a==b and a==c:
 		return '3'

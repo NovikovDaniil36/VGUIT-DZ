@@ -1,4 +1,4 @@
-#_*_coding: utf-8_*_
+#-*-coding: utf-8-*-
 def fibonacci(n):
     total = 0
     prev = next1 = 1

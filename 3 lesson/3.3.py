@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 def time(min):
 	min=min%60
 	hours = min//60%24

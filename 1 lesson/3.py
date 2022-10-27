@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 age = int(input('Введите свой возраст'))
 name = input('Введите свое имя:')
 if (age>0) and (age<75):

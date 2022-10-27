@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 def F(a,b,l,N):
 	return a+(2*a*N)+(2*b*N)+1
 a1=int(input('Введите расстояние между рядами:'))

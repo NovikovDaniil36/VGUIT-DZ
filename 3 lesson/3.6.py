@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 def chess(a,b,c,d):
 	if (a+b+c+d)%2==0:
 		return 'Да'
