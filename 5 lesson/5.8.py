@@ -1,9 +1,9 @@
 #-*-coding: utf-8-*-
 def More_in_a_row(n):
 	a=[]
-	max_quantity=1
+	max_quantity=0
 	while n!=0:
-		quantity=1
+		quantity=0
 		a.append(n)
 		for i in range(0,len(a)):
 			if a[i]==a[i-1]:
